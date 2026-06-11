@@ -1,0 +1,22 @@
+
+
+
+Import os
+os.getcwd()
+
+import pandaa as pd
+
+df=pd.read_csv('')
+df.head
+df.shape
+df.isshell()
+df.isshell().sum()
+df.count()
+df.info()
+df.dtypes
+df==0
+df[df==0]
+df[df==0].count()
+df.columns
+df[]column name in ''
+df['age'].mean()
